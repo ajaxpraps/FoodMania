@@ -1,0 +1,12 @@
+1. when you import without curly bracket that means the item is imported from default export of remote file   and it will take the name by which name you imported you don't need to import as correct name .
+ but with curly you have to write correct name.
+
+
+
+ Last Leave---
+ Lec : 1:45
+ Just ignited app with parcel
+ To start 
+ 1. explore properties of parcel
+ 2. explore folders of parcel that is made
+ 3. .gitignore file
